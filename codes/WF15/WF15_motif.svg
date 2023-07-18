@@ -1,57 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
-<g>
+<g id="Layer_2">
+	<rect class="st0" width="400" height="400"/>
+</g>
+<g id="Layer_1">
 	<g>
 		<g>
 			<g>
 				<g>
-					<path class="st0" d="M240.9,159.1l100.7,27"/>
-					<path class="st0" d="M270.8,129.2l-15,55.8l15,15l50.1-50.1l-20.7-50.1l41.5,17.2"/>
-				</g>
-				<g>
-					<path class="st0" d="M240.9,159.1l-27-100.7"/>
-					<path class="st0" d="M270.8,129.2l-55.8,15l-15-15l50.1-50.1l50.1,20.7l-17.2-41.5"/>
-				</g>
-			</g>
-		</g>
-		<g>
-			<g>
-				<g>
-					<path class="st0" d="M240.9,240.9l-27,100.7"/>
-					<path class="st0" d="M270.8,270.8l-55.8-15l-15,15l50.1,50.1l50.1-20.7l-17.2,41.5"/>
-				</g>
-				<g>
-					<path class="st0" d="M240.9,240.9l100.7-27"/>
-					<path class="st0" d="M270.8,270.8l-15-55.8l15-15l50.1,50.1l-20.7,50.1l41.5-17.2"/>
+					<g>
+						<path class="st1" d="M240.9,159.1l100.7,27"/>
+						<path class="st1" d="M270.8,129.2l-15,55.8l15,15l50.1-50.1l-20.7-50.1l41.5,17.2"/>
+					</g>
+					<g>
+						<path class="st1" d="M240.9,159.1l-27-100.7"/>
+						<path class="st1" d="M270.8,129.2l-55.8,15l-15-15l50.1-50.1l50.1,20.7L283,58.3"/>
+					</g>
 				</g>
 			</g>
-		</g>
-		<g>
 			<g>
 				<g>
-					<path class="st0" d="M159.1,240.9l-100.7-27"/>
-					<path class="st0" d="M129.2,270.8l15-55.8l-15-15l-50.1,50.1l20.7,50.1l-41.5-17.2"/>
-				</g>
-				<g>
-					<path class="st0" d="M159.1,240.9l27,100.7"/>
-					<path class="st0" d="M129.2,270.8l55.8-15l15,15l-50.1,50.1l-50.1-20.7l17.2,41.5"/>
+					<g>
+						<path class="st1" d="M240.9,240.9l-27,100.7"/>
+						<path class="st1" d="M270.8,270.8l-55.8-15l-15,15l50.1,50.1l50.1-20.7L283,341.7"/>
+					</g>
+					<g>
+						<path class="st1" d="M240.9,240.9l100.7-27"/>
+						<path class="st1" d="M270.8,270.8l-15-55.8l15-15l50.1,50.1l-20.7,50.1l41.5-17.2"/>
+					</g>
 				</g>
 			</g>
-		</g>
-		<g>
 			<g>
 				<g>
-					<path class="st0" d="M159.1,159.1l27-100.7"/>
-					<path class="st0" d="M129.2,129.2l55.8,15l15-15l-50.1-50.1L99.7,99.7l17.2-41.5"/>
+					<g>
+						<path class="st1" d="M159.1,240.9l-100.7-27"/>
+						<path class="st1" d="M129.2,270.8l15-55.8l-15-15l-50.1,50.1l20.7,50.1L58.3,283"/>
+					</g>
+					<g>
+						<path class="st1" d="M159.1,240.9l27,100.7"/>
+						<path class="st1" d="M129.2,270.8l55.8-15l15,15l-50.1,50.1l-50.1-20.7l17.2,41.5"/>
+					</g>
 				</g>
+			</g>
+			<g>
 				<g>
-					<path class="st0" d="M159.1,159.1l-100.7,27"/>
-					<path class="st0" d="M129.2,129.2l15,55.8l-15,15l-50.1-50.1l20.7-50.1l-41.5,17.2"/>
+					<g>
+						<path class="st1" d="M159.1,159.1l27-100.7"/>
+						<path class="st1" d="M129.2,129.2l55.8,15l15-15l-50.1-50.1L99.7,99.7l17.2-41.5"/>
+					</g>
+					<g>
+						<path class="st1" d="M159.1,159.1l-100.7,27"/>
+						<path class="st1" d="M129.2,129.2l15,55.8l-15,15l-50.1-50.1l20.7-50.1L58.3,117"/>
+					</g>
 				</g>
 			</g>
 		</g>
