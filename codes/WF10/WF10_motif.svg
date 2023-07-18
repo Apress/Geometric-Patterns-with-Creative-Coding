@@ -1,1 +1,30 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400"><defs/><g><rect fill="rgb(255,255,255)" stroke="none" x="0" y="0" width="400" height="400" transform="matrix(1 0 0 1 0 0)" fill-opacity="1"/><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 217.6776695296637 182.3223304703363 L 260.3553390593274 200 L 336.8718433538229 168.3058261758408 L 306.06601717798213 93.93398282201787 L 350.8883476483184 112.49999999999999" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 217.6776695296637 182.3223304703363 L 200 139.64466094067262 L 231.69417382415918 63.128156646177075 L 306.06601717798213 93.93398282201787 L 287.5 49.111652351681556" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 217.6776695296637 217.6776695296637 L 200 260.3553390593274 L 231.6941738241592 336.8718433538229 L 306.06601717798213 306.06601717798213 L 287.5 350.8883476483184" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 217.6776695296637 217.6776695296637 L 260.3553390593274 200 L 336.8718433538229 231.69417382415918 L 306.06601717798213 306.06601717798213 L 350.8883476483185 287.5" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 182.3223304703363 217.6776695296637 L 139.64466094067262 200 L 63.1281566461771 231.69417382415924 L 93.9339828220179 306.06601717798213 L 49.111652351681585 287.50000000000006" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 182.3223304703363 217.6776695296637 L 200 260.3553390593274 L 168.30582617584082 336.8718433538229 L 93.9339828220179 306.06601717798213 L 112.50000000000003 350.8883476483185" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 182.3223304703363 182.3223304703363 L 200 139.64466094067262 L 168.30582617584076 63.1281566461771 L 93.93398282201785 93.9339828220179 L 112.49999999999996 49.111652351681585" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 182.3223304703363 182.3223304703363 L 139.64466094067262 200 L 63.128156646177075 168.30582617584082 L 93.93398282201785 93.9339828220179 L 49.11165235168153 112.50000000000003" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect y="0" class="st0" width="400" height="400"/>
+	<g>
+		<g>
+			<path class="st1" d="M213.3,186.7l32.1,13.3l57.5-23.8l-23.1-55.9l33.7,14"/>
+			<path class="st1" d="M213.3,186.7L200,154.6l23.8-57.5l55.9,23.1l-14-33.7"/>
+		</g>
+		<g>
+			<path class="st1" d="M213.3,213.3L200,245.4l23.8,57.5l55.9-23.1l-14,33.7"/>
+			<path class="st1" d="M213.3,213.3l32.1-13.3l57.5,23.8l-23.1,55.9l33.7-14"/>
+		</g>
+		<g>
+			<path class="st1" d="M186.7,213.3L154.6,200l-57.5,23.8l23.1,55.9l-33.7-14"/>
+			<path class="st1" d="M186.7,213.3l13.3,32.1l-23.8,57.5l-55.9-23.1l14,33.7"/>
+		</g>
+		<g>
+			<path class="st1" d="M186.7,186.7l13.3-32.1l-23.8-57.5l-55.9,23.1l14-33.7"/>
+			<path class="st1" d="M186.7,186.7L154.6,200l-57.5-23.8l23.1-55.9l-33.7,14"/>
+		</g>
+	</g>
+</g>
+</svg>
