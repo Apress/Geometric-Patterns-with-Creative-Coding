@@ -1,1 +1,39 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400"><defs/><g><rect fill="rgb(255,255,255)" stroke="none" x="0" y="0" width="400" height="400" transform="matrix(1 0 0 1 0 0)" fill-opacity="1"/><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220 165.35898384862247 L 380 165.35898384862247 L 360 200" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 240 200 L 320 61.43593539448983 L 280 61.43593539448983" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 240 200 L 320 338.5640646055102 L 280 338.56406460551017" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220 234.64101615137753 L 380 234.64101615137753 L 360 200" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220 234.64101615137753 L 140.00000000000006 373.2050807568877 L 120.00000000000003 338.5640646055102" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 180 234.64101615137756 L 260 373.2050807568877 L 280 338.56406460551017" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 180 234.64101615137753 L 20 234.64101615137756 L 40 200.00000000000003" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 160 200 L 80 338.5640646055102 L 120 338.56406460551017" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 160 200 L 79.99999999999991 61.43593539448986 L 119.99999999999993 61.43593539448983" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 179.99999999999997 165.35898384862247 L 19.99999999999997 165.35898384862253 L 40 200.00000000000006" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 180 165.35898384862244 L 260 26.794919243112275 L 280 61.43593539448983" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220 165.35898384862247 L 140.00000000000003 26.794919243112247 L 120.00000000000003 61.4359353944898" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 200 320 L 96.07695154586736 260 L 96.07695154586736 140.00000000000003 L 199.99999999999997 80 L 303.92304845413264 139.99999999999994 L 303.92304845413264 260 L 200 320 L 200 320 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect y="0" class="st0" width="400" height="400"/>
+	<g>
+		<g>
+			<path class="st1" d="M215.7,172.7h126L326,200"/>
+			<path class="st1" d="M231.5,200l63-109.1H263"/>
+		</g>
+		<g>
+			<path class="st1" d="M231.5,200l63,109.1H263"/>
+			<path class="st1" d="M215.7,227.3h126L326,200"/>
+		</g>
+		<g>
+			<path class="st1" d="M215.7,227.3l-63,109.1L137,309.1"/>
+			<path class="st1" d="M184.3,227.3l63,109.1l15.7-27.3"/>
+		</g>
+		<g>
+			<path class="st1" d="M184.3,227.3h-126L74,200"/>
+			<path class="st1" d="M168.5,200l-63,109.1H137"/>
+		</g>
+		<g>
+			<path class="st1" d="M168.5,200l-63-109.1H137"/>
+			<path class="st1" d="M184.3,172.7h-126L74,200"/>
+		</g>
+		<g>
+			<path class="st1" d="M184.3,172.7l63-109.1L263,90.9"/>
+			<path class="st1" d="M215.7,172.7l-63-109.1L137,90.9"/>
+		</g>
+		<path class="st1" d="M200,294.5l-81.8-47.2v-94.5l81.8-47.2l81.8,47.2v94.5L200,294.5L200,294.5z"/>
+	</g>
+</g>
+</svg>
