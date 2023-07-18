@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Geometric Patterns with Creative Coding: Playing with Creative Coding*](https://www.link.springer.com/book/10.1007/9781484293881) by Selçuk Artut (Apress, 2023).
+This repository accompanies [*Geometric Patterns with Creative Coding: Playing with Creative Coding*](https://www.link.springer.com/book/10.1007/9781484293881) by [*Selçuk Artut*] (https://www.selcukartut.com)(Apress, 2023).
 
 [comment]: #cover
 ![Cover image](9781484293881.JPG)
