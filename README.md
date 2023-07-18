@@ -19,7 +19,7 @@ See the file Contributing.md for more information on how you can contribute to t
 
 [WF1 - Motif](https://github.com/Apress/Geometric-Patterns-with-Creative-Coding/blob/main/codes/WF1/Motif%20code/sketch.js) | [WF1 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/03_Hiroshi-Kawano) | [WF2 - Motif](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986) | [WF2 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986)
 ------------- | ------------- | ------------- | -------------
-<img src="codes/WF1/jpg/motif.jpg" width="100%"> | <img src="codes/WF1/jpg/tesselation.jpg" width="70%">  | ![](codes/WF4/WF4_motif.svg) | ![](codes/WF4/WF4_tesselation.svg)
+<img src="codes/WF1/jpg/motif.jpg" width="100%"> | <img src="codes/WF1/jpg/tesselation.jpg" width="100%">  | ![](codes/WF4/WF4_motif.svg) | ![](codes/WF4/WF4_tesselation.svg)
 
 [WF1 - Motif](https://github.com/Apress/Geometric-Patterns-with-Creative-Coding/blob/main/codes/WF1/Motif%20code/sketch.js) | [WF1 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/03_Hiroshi-Kawano) | [WF2 - Motif](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986) | [WF2 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986)
 ------------- | ------------- | ------------- | -------------
