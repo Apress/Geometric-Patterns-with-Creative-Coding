@@ -1,1 +1,66 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400"><defs/><g><g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 300 234.64101615137753 L 320 269.28203230275506 L 360 269.28203230275506 L 300 165.35898384862242" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 300 234.64101615137753 L 280 269.28203230275506 L 240 269.28203230275506 L 300 165.35898384862242" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220.00000000000003 303.9230484541326 L 200.00000000000003 338.56406460551017 L 220.00000000000003 373.2050807568877 L 280 269.28203230275506" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 220.00000000000003 303.9230484541326 L 180.00000000000003 303.9230484541326 L 160.00000000000003 269.28203230275506 L 280 269.28203230275506" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 120.00000000000003 269.2820323027551 L 80.00000000000003 269.2820323027551 L 60.00000000000004 303.92304845413264 L 180.00000000000003 303.92304845413264" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 120.00000000000003 269.2820323027551 L 100.00000000000003 234.64101615137758 L 120.00000000000001 200.00000000000003 L 180.00000000000003 303.92304845413264" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 99.99999999999999 165.35898384862247 L 79.99999999999999 130.71796769724494 L 39.999999999999986 130.71796769724494 L 100 234.64101615137758" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 99.99999999999999 165.35898384862247 L 119.99999999999999 130.71796769724494 L 160 130.71796769724494 L 100 234.64101615137758" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 179.99999999999994 96.07695154586736 L 199.99999999999994 61.43593539448981 L 179.99999999999991 26.794919243112275 L 119.99999999999997 130.71796769724494" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 179.99999999999994 96.07695154586736 L 219.99999999999994 96.07695154586736 L 239.99999999999997 130.7179676972449 L 119.99999999999997 130.71796769724494" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 280 130.71796769724492 L 320 130.71796769724492 L 340 96.07695154586736 L 220 96.07695154586736" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 280 130.71796769724492 L 300 165.35898384862244 L 280 200 L 220 96.07695154586736" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2">
+	<rect class="st0" width="400" height="400"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st1" d="M279.7,227.6l15.9,27.6h31.9l-47.8-82.9"/>
+					<g>
+						<path class="st1" d="M279.7,227.6l-15.9,27.6h-31.9l47.8-82.9"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M215.9,282.9L200,310.5l15.9,27.6l47.8-82.9"/>
+					<g>
+						<path class="st1" d="M215.9,282.9h-31.9l-15.9-27.6h95.7"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M136.2,255.2h-31.9l-15.9,27.6h95.7"/>
+					<g>
+						<path class="st1" d="M136.2,255.2l-15.9-27.6l15.9-27.6l47.8,82.9"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M120.3,172.4l-15.9-27.6H72.4l47.8,82.9"/>
+					<g>
+						<path class="st1" d="M120.3,172.4l15.9-27.6h31.9l-47.8,82.9"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M184.1,117.1L200,89.5l-15.9-27.6l-47.8,82.9"/>
+					<g>
+						<path class="st1" d="M184.1,117.1h31.9l15.9,27.6h-95.7"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M263.8,144.8h31.9l15.9-27.6h-95.7"/>
+					<g>
+						<path class="st1" d="M263.8,144.8l15.9,27.6L263.8,200l-47.8-82.9"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
