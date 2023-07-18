@@ -1,1 +1,36 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600"><defs/><g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 507.84609645413263 300 C 474.70900845413263 357.395112 401.3181604541326 377.060136 343.92304845413264 343.923048 C 325.68074445413265 333.390852 310.53219645413265 318.242304 300.00000045413265 300" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 403.9230482270663 479.9999996067096 C 337.6488791820133 479.9999955912691 283.92304483198257 426.2741688179868 283.92304884742305 359.9999997729337 C 283.9230461410599 338.9356030853752 289.46779953950784 318.24230168692725 300.0000002270663 300.0000003932904" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 196.0769517729337 479.9999996067096 C 162.93987072788062 422.6048835912692 182.6048843778499 349.2140328179868 240.0000003932904 316.07695177293374 C 258.24230168692725 305.5447510853752 278.9356030853752 299.99999768692726 299.9999997729337 300.0000003932904" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 92.15390354586735 300 C 125.29099154586734 242.60488800000002 198.68183954586735 222.939864 256.07695154586736 256.076952 C 274.31925554586735 266.609148 289.46780354586735 281.757696 299.99999954586735 300" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 196.0769517729336 120.00000039329042 C 262.35112081798667 120.00000440873086 316.0769551680174 173.72583118201322 316.07695115257695 240.0000002270663 C 316.0769538589401 261.06439691462475 310.53220046049216 281.75769831307275 299.9999997729337 299.9999996067096" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 403.9230482270663 120.0000003932904 C 437.0601292721194 177.3951164087309 417.39511562215006 250.78596718201325 359.9999996067096 283.9230482270663 C 341.75769831307275 294.4552489146248 321.0643969146248 300.00000231307274 300.0000002270663 299.9999996067096" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2">
+	<rect class="st0" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<g>
+				<path class="st1" d="M507.8,300c-33.1,57.4-106.5,77.1-163.9,43.9c-18.2-10.5-33.4-25.7-43.9-43.9"/>
+			</g>
+			<g>
+				<path class="st1" d="M403.9,480c-66.3,0-120-53.7-120-120c0-21.1,5.5-41.8,16.1-60"/>
+			</g>
+			<g>
+				<path class="st1" d="M196.1,480c-33.1-57.4-13.5-130.8,43.9-163.9c18.2-10.5,38.9-16.1,60-16.1"/>
+			</g>
+			<g>
+				<path class="st1" d="M92.2,300c33.1-57.4,106.5-77.1,163.9-43.9c18.2,10.5,33.4,25.7,43.9,43.9"/>
+			</g>
+			<g>
+				<path class="st1" d="M196.1,120c66.3,0,120,53.7,120,120c0,21.1-5.5,41.8-16.1,60"/>
+			</g>
+			<g>
+				<path class="st1" d="M403.9,120c33.1,57.4,13.5,130.8-43.9,163.9c-18.2,10.5-38.9,16.1-60,16.1"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
