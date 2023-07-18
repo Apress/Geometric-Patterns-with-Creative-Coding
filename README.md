@@ -21,6 +21,10 @@ See the file Contributing.md for more information on how you can contribute to t
 ------------- | ------------- | ------------- | -------------
 ![](codes/WF1/WF1_motif.svg) | ![](codes/WF1/WF1_tesselation.svg) | ![](codes/WF4/WF4_motif.svg) | ![](codes/WF4/WF4_tesselation.svg)
 
+[WF1 - Motif](https://github.com/Apress/Geometric-Patterns-with-Creative-Coding/blob/main/codes/WF1/Motif%20code/sketch.js) | [WF1 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/03_Hiroshi-Kawano) | [WF2 - Motif](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986) | [WF2 - Tesselation](https://github.com/alptugan/Generative-Art-Praxis/tree/main/04_Vera_Molnar-16_Carres_1986)
+------------- | ------------- | ------------- | -------------
+![](codes/WF1/WF1_motif.svg) | ![](codes/WF1/WF1_tesselation.svg) | ![](codes/WF4/WF4_motif.svg) | ![](codes/WF4/WF4_tesselation.svg)
+
 ## Required Libraries
 [DAT GUI JS (Included already)](https://github.com/dataarts/dat.gui)
 
