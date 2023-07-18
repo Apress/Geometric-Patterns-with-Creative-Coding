@@ -1,1 +1,22 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600"><defs/><g><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 384.8528137423857 335.1471862576143 L 384.8528137423857 384.8528137423857 L 335.1471862576143 384.8528137423857 L 300 420 L 264.8528137423857 384.8528137423857 L 215.1471862576143 384.8528137423857 L 215.1471862576143 335.1471862576143 L 180 300 L 215.1471862576143 264.8528137423857 L 215.1471862576143 215.1471862576143 L 264.8528137423857 215.1471862576143 L 300.00000000000006 180 L 335.1471862576143 215.1471862576143 L 384.8528137423857 215.14718625761432 L 384.8528137423857 264.8528137423857 L 420 300.00000000000006 L 384.8528137423857 335.1471862576143 L 384.8528137423857 335.1471862576143 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2">
+	<rect class="st0" width="600" height="600"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<g>
+			<g>
+				<path class="st1" d="M450.3,362.3v88.1h-88.1L300,512.6l-62.3-62.3h-88.1v-88.1L87.4,300l62.3-62.3v-88.1h88.1L300,87.4
+					l62.3,62.3h88.1v88.1l62.3,62.3L450.3,362.3L450.3,362.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
