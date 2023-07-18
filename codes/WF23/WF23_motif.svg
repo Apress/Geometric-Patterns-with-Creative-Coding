@@ -1,59 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
-<g>
+<g id="Layer_2">
+	<rect class="st0" width="400" height="400"/>
+</g>
+<g id="Layer_1">
 	<g>
 		<g>
-			<path class="st0" d="M242.4,157.6l-21.2-79.2L200,66.2l-18.2-10.5"/>
-			<path class="st0" d="M242.4,157.6l79.2,21.2l12.2,21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M258,184.5l58,58v24.5v21"/>
-			<path class="st0" d="M258,184.5l21.2-79.2l-12.2-21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M258,215.5l58-58v-24.5v-21"/>
-			<path class="st0" d="M258,215.5l21.2,79.2l-12.2,21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M242.4,242.4l-21.2,79.2L200,333.8l-18.2,10.5"/>
-			<path class="st0" d="M242.4,242.4l79.2-21.2l12.2-21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M215.5,258l79.2,21.2l21.2-12.2l18.2-10.5"/>
-			<path class="st0" d="M215.5,258l-58,58h-24.5"/>
-		</g>
-		<g>
-			<path class="st0" d="M184.5,258l-79.2,21.2l-21.2-12.2l-18.2-10.5"/>
-			<path class="st0" d="M184.5,258l58,58h24.5"/>
-		</g>
-		<g>
-			<path class="st0" d="M157.6,242.4l21.2,79.2l21.2,12.2l18.2,10.5"/>
-			<path class="st0" d="M157.6,242.4l-79.2-21.2L66.2,200"/>
-		</g>
-		<g>
-			<path class="st0" d="M142,215.5l-58-58v-24.5v-21"/>
-			<path class="st0" d="M142,215.5l-21.2,79.2l12.2,21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M142,184.5l-58,58v24.5v21"/>
-			<path class="st0" d="M142,184.5l-21.2-79.2l12.2-21.2"/>
-		</g>
-		<g>
-			<path class="st0" d="M157.6,157.6l21.2-79.2L200,66.2l18.2-10.5"/>
-			<path class="st0" d="M157.6,157.6l-79.2,21.2L66.2,200"/>
-		</g>
-		<g>
-			<path class="st0" d="M184.5,142l-79.2-21.2l-21.2,12.2l-18.2,10.5"/>
-			<path class="st0" d="M184.5,142l58-58h24.5"/>
-		</g>
-		<g>
-			<path class="st0" d="M215.5,142l79.2-21.2l21.2,12.2l18.2,10.5"/>
-			<path class="st0" d="M215.5,142l-58-58h-24.5"/>
+			<g>
+				<path class="st1" d="M242.4,157.6l-21.2-79.2L200,66.2l-18.2-10.5"/>
+				<path class="st1" d="M242.4,157.6l79.2,21.2l12.2,21.2"/>
+			</g>
+			<g>
+				<path class="st1" d="M258,184.5l58,58V267v21"/>
+				<path class="st1" d="M258,184.5l21.2-79.2L267,84.1"/>
+			</g>
+			<g>
+				<path class="st1" d="M258,215.5l58-58V133v-21"/>
+				<path class="st1" d="M258,215.5l21.2,79.2L267,315.9"/>
+			</g>
+			<g>
+				<path class="st1" d="M242.4,242.4l-21.2,79.2L200,333.8l-18.2,10.5"/>
+				<path class="st1" d="M242.4,242.4l79.2-21.2l12.2-21.2"/>
+			</g>
+			<g>
+				<path class="st1" d="M215.5,258l79.2,21.2l21.2-12.2l18.2-10.5"/>
+				<path class="st1" d="M215.5,258l-58,58H133"/>
+			</g>
+			<g>
+				<path class="st1" d="M184.5,258l-79.2,21.2L84.1,267l-18.2-10.5"/>
+				<path class="st1" d="M184.5,258l58,58H267"/>
+			</g>
+			<g>
+				<path class="st1" d="M157.6,242.4l21.2,79.2l21.2,12.2l18.2,10.5"/>
+				<path class="st1" d="M157.6,242.4l-79.2-21.2L66.2,200"/>
+			</g>
+			<g>
+				<path class="st1" d="M142,215.5l-58-58V133v-21"/>
+				<path class="st1" d="M142,215.5l-21.2,79.2l12.2,21.2"/>
+			</g>
+			<g>
+				<path class="st1" d="M142,184.5l-58,58V267v21"/>
+				<path class="st1" d="M142,184.5l-21.2-79.2L133,84.1"/>
+			</g>
+			<g>
+				<path class="st1" d="M157.6,157.6l21.2-79.2L200,66.2l18.2-10.5"/>
+				<path class="st1" d="M157.6,157.6l-79.2,21.2L66.2,200"/>
+			</g>
+			<g>
+				<path class="st1" d="M184.5,142l-79.2-21.2L84.1,133l-18.2,10.5"/>
+				<path class="st1" d="M184.5,142l58-58H267"/>
+			</g>
+			<g>
+				<path class="st1" d="M215.5,142l79.2-21.2l21.2,12.2l18.2,10.5"/>
+				<path class="st1" d="M215.5,142l-58-58H133"/>
+			</g>
 		</g>
 	</g>
 </g>
