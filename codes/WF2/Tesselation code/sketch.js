@@ -48,8 +48,8 @@ function setup() {
     doff = dy * 0.5;
 
     //approximate the nRow and nCol values
-    nRow = ceil(height / dy);
-    nCol = ceil(width / dx);
+    nRow = 1+ceil(height / dy);
+    nCol = 1+ceil(width / dx);
 }
 
 function draw() {
@@ -65,4 +65,6 @@ function draw() {
             pop();
         }
     }
+    save("hu.svg");
+
 }
