@@ -19,6 +19,6 @@ See the file Contributing.md for more information on how you can contribute to t
 
 
 <h3 align="left">Workflow 1:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="codes/WF1/WF1_motif.svg" style="background-color:#ffffff" alt="c" width="40%" height="40%"/> </a> <rect width="100%" height="100%" fill="white"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="codes/WF1/WF1_tesselation.svg" style="background-color:#ffffff" alt="cplusplus" width="40%" height="40%"/> </a>  </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="codes/WF1/WF1_motif.svg" style="background-color:#ff0000" alt="c" width="40%" height="40%"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="codes/WF1/WF1_tesselation.svg" style="background-color:#ffffff" alt="cplusplus" width="40%" height="40%"/> </a>  </p>
 <h3 align="left">Workflow 2:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="codes/WF2/WF2_motif.svg" style="background-color:#ffffff" alt="c" width="40%" height="40%"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="codes/WF2/WF2_tesselation.svg" style="background-color:#ffffff" alt="cplusplus" width="40%" height="40%"/> </a>  </p>
