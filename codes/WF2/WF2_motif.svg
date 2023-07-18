@@ -1,1 +1,14 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600"><defs/><g><g><path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 420 369.28203230275506 L 340 369.28203230275506 L 300 438.5640646055102 L 260 369.2820323027551 L 180 369.2820323027551 L 220 300 L 179.99999999999997 230.71796769724494 L 260 230.71796769724492 L 299.99999999999994 161.4359353944898 L 340 230.7179676972449 L 420 230.71796769724492 L 380 299.99999999999994 L 420 369.28203230275506 L 420 369.28203230275506 Z" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray=""/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M487.8,408.4H362.6L300,516.9l-62.6-108.4H112.2L174.8,300l-62.6-108.4h125.2L300,83.1l62.6,108.4h125.2
+			L425.2,300L487.8,408.4L487.8,408.4z"/>
+	</g>
+</g>
+</svg>
